@@ -44,14 +44,15 @@ This repository contains the XMRig CPU miner setup for Windows 64-bit systems.
 
 1. Clone the repository or Download the Zip :
 
-       https://github.com/Kunalkawale01/xmrig-miner-setup/blob/main/xmrig-6.25.0-windows-x64.zip
-3. Navigate to the folder:
+       https://github.com/Kunalkawale01/xmrig-miner-setup/blob/93961c15f5d951cd61df82f6380ad9057f4807fa/xmrig-6.25.0-windows-x64.zip
+
+2. Navigate to the folder:
 
         cd xmrig-6.25.0-windows-x64
 
-4. Edit config.json and add your wallet address and pool.
+3. Edit config.json and add your wallet address and pool.
 
-5. Start mining:
+4. Start mining:
 
        xmrig.exe --config config.json
 
