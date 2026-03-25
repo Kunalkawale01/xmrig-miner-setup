@@ -42,9 +42,7 @@ This repository contains the XMRig CPU miner setup for Windows 64-bit systems.
 
 # Installation
 
-1. Clone the repository or Download the Zip :
-
-       https://github.com/Kunalkawale01/xmrig-miner-setup/blob/93961c15f5d951cd61df82f6380ad9057f4807fa/xmrig-6.25.0-windows-x64.zip
+1.  Download the Zip :
 
 2. Navigate to the folder:
 
